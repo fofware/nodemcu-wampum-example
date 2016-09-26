@@ -11,8 +11,8 @@ by the ESP8266 web server [nodemcu-wampum](https://github.com/freegroup/nodemcu-
 ## Requirements
 
 ### NodeMCU Web server
-This project structure is adapted to the [nodemcu-wampum](https://github.com/freegroup/nodemcu-wampum).
-Just follow the instructions of this project how to install this tiny Web server on your ESP8266.
+This project is a basic web application adapted to the [nodemcu-wampum](https://github.com/freegroup/nodemcu-wampum).
+Just follow the instructions of the wampum project how to install this tiny Web server on your ESP8266.
 
 Again:
  - Install the [nodemcu-wampum](https://github.com/freegroup/nodemcu-wampum) on your ESP8266
