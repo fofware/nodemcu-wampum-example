@@ -1,6 +1,6 @@
-# nodemcu-wampum-example
+# nodemcu-wampum Example project
 
-Very basic example for an web interface for the ESP8266 or WeMos module.
+Very basic web interface for the ESP8266 or WeMos module.
 All the resources are located on the SD card instead of the internal FLASH RAM and hosted
 by the ESP8266 web server [nodemcu-wampum](https://github.com/freegroup/nodemcu-wampum)
 
@@ -11,7 +11,7 @@ by the ESP8266 web server [nodemcu-wampum](https://github.com/freegroup/nodemcu-
 ## Requirements
 
 ### NodeMCU Web server
-This project structureis adapted to the [nodemcu-wampum](https://github.com/freegroup/nodemcu-wampum).
+This project structure is adapted to the [nodemcu-wampum](https://github.com/freegroup/nodemcu-wampum).
 Just follow the instructions of this project how to install this tiny Web server on your ESP8266.
 
 Again:
